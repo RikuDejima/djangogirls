@@ -1,0 +1,9 @@
+.text_field {
+  margin-bottom: 30px;
+}
+
+.text_box {
+  width: 100px;
+  height: 40px;
+  border: solid 2px blue;
+}
